@@ -1,0 +1,33 @@
+body {
+    background-color:goldenrod;
+    padding: 100px;
+    margin: 150px;
+}
+h2 {
+    background-color: #e5edf5;
+    text-align: center;
+    text-transform: uppercase;
+}
+h3 {
+    background-color: #b42e2e;
+    text-align: center;
+}
+p {
+    background-color: #e5edf5;
+    text-decoration:underline;
+    margin: 1px;
+    padding: 3px;
+}
+.img-logo {
+   width: 100px;
+   height: 100px;
+   float: right;
+}
+.doce-html {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+
+

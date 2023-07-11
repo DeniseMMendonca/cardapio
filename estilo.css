@@ -1,0 +1,46 @@
+body { background-color:goldenrod;
+       padding: 10px;
+       margin: 190px;
+}
+h1 {
+   text-align: center;
+   background-color: #b42e2e;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+h2 { background-color: #e5edf5;
+}
+h4 {
+    color:#b42e2e;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: left;
+     
+}
+ p {
+    text-align: left;
+    font-variant: small-caps;
+ }
+ h5 {
+    font-style: italic;
+    text-decoration: underline;
+    text-align: left;
+ }
+ .img-logo {
+   width: 190px;
+   height: 190px;
+   float:right;
+   
+ }
+ .img-html {
+   float: right;
+   width: 350px;
+   height: 400px;
+ }
+.feliz-html {
+   float: left;
+   width: 400px;
+   height: 400px;
+}
+ 
